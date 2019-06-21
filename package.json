@@ -14,7 +14,7 @@
     "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json .",
     "push-check": "npm test && npm run lint",
     "build-docs": "jsdoc -c ./docs/config/jsdoc.config.json . && open ./docs/index.html"
-  },  
+  },
   "jest": {
     "testEnvironment": "node"
   },
@@ -32,6 +32,7 @@
     "@nmq/q": "^1.0.3",
     "dotenv": "^8.0.0",
     "eslint": "^5.16.0",
+    "express": "^4.17.1",
     "jest": "^24.8.0"
   }
 }

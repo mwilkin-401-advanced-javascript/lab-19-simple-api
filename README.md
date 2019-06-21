@@ -10,18 +10,24 @@
 
 * [Travis](https://www.travis-ci.com/mwilkin-401-advanced-javascript/lab-19-simple-api)
 
-* [Heroku]()
-
 * [UML](https://drive.google.com/file/d/1zCn0NgFr69td5_hWZkk7myrq5sDAQVKb/view?usp=sharing)
 
 ### Documentation
 
 Dependencies
+
 jest
+
 eslint
+
 dotenv
+
 socket.io
+
 @nmq/q
+
+express
+
 
 Modules
 
