@@ -1,7 +1,7 @@
 # lab-19 Simple-API Socket.io - Message Queue Server
 
 
-[![Build Status](https://www.travis-ci.com/mwilkin-401-advanced-javascript/lab-04.svg?branch=api)](https://www.travis-ci.com/mwilkin-401-advanced-javascript/lab-19-simple-api)
+[![Build Status](https://www.travis-ci.com/mwilkin-401-advanced-javascript/lab-19-simple-api.svg?branch=api)](https://www.travis-ci.com/mwilkin-401-advanced-javascript/lab-19-simple-api)
 
 ### Author: Matt Wilkin
 
@@ -10,18 +10,24 @@
 
 * [Travis](https://www.travis-ci.com/mwilkin-401-advanced-javascript/lab-19-simple-api)
 
-* [Heroku]()
-
 * [UML](https://drive.google.com/file/d/1zCn0NgFr69td5_hWZkk7myrq5sDAQVKb/view?usp=sharing)
 
 ### Documentation
 
 Dependencies
+
 jest
+
 eslint
+
 dotenv
+
 socket.io
+
 @nmq/q
+
+express
+
 
 Modules
 
